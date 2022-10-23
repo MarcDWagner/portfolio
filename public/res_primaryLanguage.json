@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "This was the final project for my 201 course that covered HTML, CSS and Javascript.  Modeled after the gameshow Jeopardy, this is a quiz to help students in that course prepare for their final exam by asking basic questions of those three topics.",
         "images": [
-          "public/images/portfolio/animal-shelter/jsParty.bmp"
+          "public/images/Trivia Trebek screen shot.jpg"
         ],
         "url": "https://marcdwagner.github.io/trivia-trebek-201-project/",
         "technologies": [
@@ -38,8 +38,8 @@
         "startDate": "2022",
         "description": "This project was a series of lab work of using React for the first time.",
         "images": [
-          "public/images/portfolio/hornedBeast/HornedBeasts.jpg",
-          "public/images/portfolio/hornedBeast/beastModal.jpg"
+          "public/images/HornedBeasts.jpg",
+          "public/images/hornedBeast Modal.jpg"
         ],
         "url": "https://marc-301d90-horned-beasts.netlify.app/",
         "technologies": [
